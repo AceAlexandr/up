@@ -13,7 +13,7 @@ public class Main {
             MakeRequest.makeRequest();
 
         }catch(FileNotFoundException ex){
-            System.out.println("lol");
+            System.out.println("Error");
         }
     }
 }
